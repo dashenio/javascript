@@ -61,7 +61,11 @@ Os exemplos foram desenvolvidos com base nas aulas ao vivo (*Live Codes*) e em e
 
 ``` 
 /
-├── helloworld/ 
+├── helloworld/
+├── aula_02
+├── aula_03
+├── aula_04
+├── aula_05 
 └── README.md
 
 ```
