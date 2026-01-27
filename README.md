@@ -62,10 +62,10 @@ Os exemplos foram desenvolvidos com base nas aulas ao vivo (*Live Codes*) e em e
 ``` 
 /
 ├── helloworld/
-├── aula_02
-├── aula_03
-├── aula_04
-├── aula_05 
+├── aula02/
+├── aula03/
+├── aula04/
+├── aula05/
 └── README.md
 
 ```
